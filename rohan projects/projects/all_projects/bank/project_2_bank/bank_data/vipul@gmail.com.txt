@@ -1,0 +1,9 @@
+Name of customer is : vipul
+Age of customer is : 25
+Contact of customer is : 3659487562
+Address of customer is : kurla
+Amount For First Deposite : 5000
+email of customer is : vipul@gmail.com
+Password is : 123456
+
+The account for vipul has been created with depositing amount of : 5000

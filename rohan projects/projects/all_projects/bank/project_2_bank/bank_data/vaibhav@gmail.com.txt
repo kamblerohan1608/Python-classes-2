@@ -1,0 +1,13 @@
+Name of customer is : vaibhav
+Age of customer is : 25
+Contact of customer is : 1236547895
+Address of customer is : vashi
+Amount For First Deposite : 6000
+email of customer is : vaibhav@gmail.com
+Password is : 123456
+
+The account for vaibhav has been created with depositing amount of : 6000
+The Amount deposited : 500
+Balance : 6500
+The Amount Withdraw : 500
+Balance : 6000

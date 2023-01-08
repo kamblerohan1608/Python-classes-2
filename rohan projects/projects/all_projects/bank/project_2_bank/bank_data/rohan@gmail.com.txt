@@ -1,0 +1,25 @@
+Name of customer is : rohan
+Age of customer is : 25
+Contact of customer is : 3654789631
+Address of customer is : kurla
+Amount For First Deposite : 5000
+email of customer is : rohan@gmail.com
+Password is : 123456
+
+The account for rohan has been created with depositing amount of : 5000
+The Amount deposited : 200
+Current Balance : 5200
+The Amount Withdraw : 200
+Current Balance : 5000
+The Amount deposited : 900
+Current Balance : 5900
+The Amount Withdraw : 500
+Current Balance : 5400
+The Amount deposited : 100
+Balance : 5500
+The Amount Withdraw : 500
+Balance : 5000
+The Amount deposited : 200
+Balance : 5200
+The Amount Withdraw : 200
+Balance : 5000
